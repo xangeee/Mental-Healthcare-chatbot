@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65236981/170895055-3b6017d2-5fdc-41c5-9a99-1e76bb013f33.png" width="550" height="400"/>
  </p>
-In today's society mental health is important because it can impact your thoughts, behaviors and emotions. Living a healthy, balanced life can promote productivity and effectiveness in every our daily activity. Mental health problems are common but help is available. The objective of this project is to creat a chatbot that can support people's mental health and wellbeing.
+In today's society mental health is important because it can impact your thoughts, behaviors and emotions. Living a healthy, balanced life can promote productivity and effectiveness in every our daily activity. Mental health problems are common but help is available. The objective of this project is to create a chatbot that can support people's mental health and wellbeing.
 
 ## Brief description of the chatbot
 It is built using Natural Language Toolkit(NLTK),Term Frequency-Inverse Document Frequency (TF-IDF), TensorFlow  and Cosine similarity.
@@ -18,7 +18,7 @@ The entire procedure of personality prediction model creation are as follows[[1]
 * Data acquisition and re-sampling
 * Pre-Processing and feature selection
 * Text-based Personality classification using MBTI model
-* pplying XGBoost for personality classification
+* Applying XGBoost for personality classification
 * Applying different evaluation metrics.
 
 
