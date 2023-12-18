@@ -14,18 +14,9 @@ Given a twitter username the chatbot can also do personality prediction from use
 
 The dataset used for the training was also obtained from Kaggle([Myers-Briggs Personality Type Dataset]([https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot](https://www.kaggle.com/datasets/datasnaek/mbti-type))). As the problem of imbalanced classes with respect to different personality traits is present in the dataset, to solve it the technique Over-sampling was applied for better performance.
 
-The entire procedure of personality prediction model creation are as follows[[1]](#1):
-* Data acquisition and re-sampling
-* Pre-Processing and feature selection
-* Text-based Personality classification using MBTI model
-* Applying XGBoost for personality classification
-* Applying different evaluation metrics.
-
 
 ## References
 <a id="1">[1]</a> 
 Khan, A. S., Ahmad, H., Asghar, M. Z., Saddozai, F. K., Arif, A., & Khalid, H. A. (2020). Personality classification from online text using machine learning approach. International Journal of Advanced Computer Science and Applications, 11(3), 460-476.
 
-<a id="2">[2]</a> 
-Predict your Myers-Briggs Personality: https://www.kaggle.com/code/stefanbergstein/byo-tweets-predict-your-myers-briggs-personality
 
